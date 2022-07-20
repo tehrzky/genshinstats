@@ -5,7 +5,7 @@ Automatically claims:
 - daily reward
 - active primo codes (from <https://www.pockettactics.com/genshin-impact/codes>)
 
-[My stats](http://tehrzky.ezyro.com/)
+[My stats](http://tehrzkygenshin.ezyro.com/)
 
 # Setup
 
