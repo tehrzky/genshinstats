@@ -1,7 +1,7 @@
 <?php
 
 
-$KEY = "";
+$KEY = "f23cs65f156a1f6as156dc156asc61asd56a64f65as46f4as6d";
 
 
 // Don't edit anything after this comment
